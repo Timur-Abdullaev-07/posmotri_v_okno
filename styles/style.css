@@ -60,7 +60,7 @@ ol {
   display: flex;
   align-items: end;
   column-gap: 27px;
-  max-width: 1140px;
+  width: 1140px;
 }
 
 .result {
@@ -307,7 +307,7 @@ ol {
 }
 
 .content__video-card-title {
-  font-family: 'Oswald';
+  font-family: 'Oswald', sans-serif;
   font-weight: 700;
   font-size: 30px;
   line-height: 100%;
